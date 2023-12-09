@@ -33,7 +33,6 @@ const Nav = () => {
 
   const closemenu = () => {
     setIsActive(false)
-
   }
 
   const handleDownload = () => {
@@ -53,7 +52,7 @@ const Nav = () => {
       <nav className={navbg ? "activenavbar" : "navbar"} id="nav-menu" >
         <div className="max-width">
           <div className="title_logo" style={{fontFamily:"cursive"}}>
-          <h1>Saurav</h1>
+          <h1 id='namelogo'>Saurav</h1>
           </div>
           <ul className={`menu ${isActive ? 'active' : ''}`}>
             <li>

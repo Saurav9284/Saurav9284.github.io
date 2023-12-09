@@ -13,9 +13,16 @@
   width: 100%;
 }
 
+#namelogo{
+  color: #008080;
+  bottom: 10px;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  cursor: pointer;
+}
 .menu {
   position: relative;
-  bottom: 22px;
+  bottom: 10px;
 }
 
 .menu-btn-position {
@@ -166,6 +173,7 @@
   .menu-btn {
     display: block;
     z-index: 999;
+    margin-top: 15px;
   }
 
   .menu-btn i.active:before {

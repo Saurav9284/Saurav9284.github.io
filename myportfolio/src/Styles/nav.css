@@ -6,7 +6,6 @@
   font-size: 23px;
   cursor: pointer;
   display: none;
-
 }
 
 .navdiv {
@@ -48,6 +47,7 @@
   position: fixed;
   z-index: 999;
   transition: all 0.3s ease;
+  /* color: #ffffff; */
 
 }
 
@@ -62,17 +62,20 @@
   transition: all 0.3s ease;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   background-color: #e0f2fe;
+  color: #008080;
   margin-top: 2px;
 }
 
 .navbar.sticky {
   padding: 15px 0;
   background: #171c23;
+  /* color: #ffffff;  */
 }
 
 .activenavbar.sticky {
   padding: 15px 0;
   background: #171c23;
+  /* color: #ffffff; */
 }
 
 .navbar .max-width {
@@ -91,6 +94,7 @@
   color: red;
   font-size: 30px;
   font-weight: 600;
+  /* color: #ffffff;  */
 }
 
 .activenavbar .logo a {
@@ -120,6 +124,7 @@
 .navbar .menu li {
   list-style: none;
   display: inline-block;
+  /* color: #ffffff; */
 }
 
 .activenavbar .menu li {
@@ -134,7 +139,7 @@
 
   letter-spacing: 0.8px;
   letter-spacing: 2px;
-  color: #008080;
+  color: #008080;       /* //////////////////// */
   font-size: 1rem;
   font-weight: 500;
 }

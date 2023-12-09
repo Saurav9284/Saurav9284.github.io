@@ -8,9 +8,9 @@ import vercel from "../Images/vercel-seeklogo.com.svg";
 import netlify from "../Images/netlify.png";
 import vscode from "../Images/icons8-visual-studio-code-2019.svg";
 import Mongo from "../Images/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png";
-import angular from "../Images/Angular.svg";
-import python from "../Images/python.svg";
-import mysql from "../Images/MySQL.svg";
+// import angular from "../Images/Angular.svg";
+// import python from "../Images/python.svg";
+// import mysql from "../Images/MySQL.svg";
 import { Tooltip } from '@chakra-ui/react'
 
 const Techstacks = () => {
@@ -30,9 +30,6 @@ const Techstacks = () => {
       <div className='logosofstacks'>
 
         <Tooltip hasArrow label="HTML"  className="tooltip-font" bg={"#FC573B"} color={"white"} >
-
-
-          
           <div className="coin  html_logo " >
             <div className="side heads skills-card-img">
 

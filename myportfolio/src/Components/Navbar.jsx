@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from "../Images/k.png"
+// import logo from "../Images/k.png"
 import styles from "../Styles/navbar.module.css";
 import { Menu, MenuButton, MenuList, MenuItem, IconButton, Link } from '@chakra-ui/react';
 import { SlMenu } from "react-icons/sl";
@@ -50,7 +50,7 @@ const Navbar = () => {
             <nav className={styles.nav}>
 
                 <div className={styles.title_logo}>
-                    <img src={logo} alt="logo" />
+                  <h1>Saurav</h1>
                 </div>
                 <div >
                     <ul id={styles.nav_links} >

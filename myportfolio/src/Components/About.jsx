@@ -9,7 +9,7 @@ const About = ({ref,func}) => {
 
 
     const handleDownload = () => {
-        window.open("https://drive.google.com/file/d/11eCVTWwZ7pFxIctWQzDJAQ2W-kjLPj8V/view");
+        window.open("https://drive.google.com/file/d/1BuUij8f6IcFfJPZwNK6oMOh4BJTp4O03/view?usp=sharing");
         const link = document.createElement('a');
         link.href = Saurav_Sanjay_Chavan;
         link.setAttribute('download', 'Saurav_Sanjay_Chavan.pdf');

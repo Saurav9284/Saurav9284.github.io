@@ -97,8 +97,8 @@ const Techstacks = () => {
           {/* </div> */}
         </Tooltip>
 
-        <Tooltip hasArrow label="Angular"  className="tooltip-font " bg={"#E23237"} color={"white"}>
-          {/* <div className='skills-card'> */}
+        {/* <Tooltip hasArrow label="Angular"  className="tooltip-font " bg={"#E23237"} color={"white"}>
+          
           <div className="coin Mongo_logo">
             <div className="side heads">
 
@@ -109,12 +109,11 @@ const Techstacks = () => {
 
             </div>
           </div>
-          {/* <p class="skills-card-name">Mongo</p> */}
-          {/* </div> */}
-        </Tooltip>
+          
+        </Tooltip> */}
 
-        <Tooltip hasArrow label="TypeScript"  className="tooltip-font " bg={"#007acc"} color={"white"}>
-          {/* <div className='skills-card'> */}
+        {/* <Tooltip hasArrow label="TypeScript"  className="tooltip-font " bg={"#007acc"} color={"white"}>
+          
           <div className="coin Typesscript_logo">
             <div className="side heads">
 
@@ -125,12 +124,10 @@ const Techstacks = () => {
 
             </div>
           </div>
-          {/* <p class="skills-card-name">TyperScript</p> */}
-          {/* </div> */}
-        </Tooltip>
+        </Tooltip> */}
 
-        <Tooltip hasArrow label="Python"  className="tooltip-font " bg={"#35668F"} color={"white"}>
-          {/* <div className='skills-card'> */}
+        {/* <Tooltip hasArrow label="Python"  className="tooltip-font " bg={"#35668F"} color={"white"}>
+         
           <div className="coin Mongo_logo">
             <div className="side heads">
 
@@ -141,9 +138,7 @@ const Techstacks = () => {
 
             </div>
           </div>
-          {/* <p class="skills-card-name">Mongo</p> */}
-          {/* </div> */}
-        </Tooltip>
+        </Tooltip> */}
 
         <Tooltip hasArrow label="Redux"  className="tooltip-font " bg={"#7e57c2"} color={"white"}>
 {/* <div className='skills-card'> */}
@@ -212,8 +207,7 @@ const Techstacks = () => {
 
         
 
-        <Tooltip hasArrow label="MySQL"  className="tooltip-font " bg={"#DE8A03"} color={"white"}>
-          {/* <div className='skills-card'> */}
+        {/* <Tooltip hasArrow label="MySQL"  className="tooltip-font " bg={"#DE8A03"} color={"white"}>
           <div className="coin Mongo_logo">
             <div className="side heads">
 
@@ -224,14 +218,12 @@ const Techstacks = () => {
 
             </div>
           </div>
-          {/* <p class="skills-card-name">Mongo</p> */}
-          {/* </div> */}
-        </Tooltip>
+        </Tooltip> */}
 
        
 
         <Tooltip hasArrow label="Chakra UI"  className="tooltip-font " bg={"#4db6ac"} color={"white"}>
-{/* <div className='skills-card'> */}
+        {/* <div className='skills-card'> */}
           <div className="coin  Chakra_logo">
             <div className="side heads skills-card-img" >
               <svg className='chakra-logo-width' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="6rem" height="6rem"><circle cx="24" cy="24" r="20" fill="#4db6ac" /><path fill="#fff" d="M33.357,21.5h-8.882c-0.187,0-0.308-0.198-0.222-0.365l5.03-9.745	c0.13-0.253-0.195-0.492-0.398-0.293l-14.2,13.974c-0.159,0.157-0.048,0.428,0.175,0.428H24.2c0.202,0,0.32,0.227,0.205,0.393	l-7.126,10.265c-0.17,0.245,0.154,0.528,0.374,0.327l15.873-14.55C33.694,21.78,33.585,21.5,33.357,21.5z" /></svg>

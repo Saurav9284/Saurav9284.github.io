@@ -37,7 +37,7 @@ const Nav = () => {
   }
 
   const handleDownload = () => {
-    window.open("https://drive.google.com/file/d/11eCVTWwZ7pFxIctWQzDJAQ2W-kjLPj8V/view");
+    window.open("https://drive.google.com/file/d/1BuUij8f6IcFfJPZwNK6oMOh4BJTp4O03/view?usp=sharing");
     const link = document.createElement('a');
 
     link.href = Saurav_Sanjay_Chavan;
@@ -53,7 +53,7 @@ const Nav = () => {
       <nav className={navbg ? "activenavbar" : "navbar"} id="nav-menu" >
         <div className="max-width">
           <div className="title_logo" style={{fontFamily:"cursive"}}>
-          <h1>SC</h1>
+          <h1>Saurav</h1>
           </div>
           <ul className={`menu ${isActive ? 'active' : ''}`}>
             <li>

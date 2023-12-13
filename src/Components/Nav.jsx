@@ -1,7 +1,6 @@
 import React from 'react'
 import "../Styles/nav.css"
 import { useState } from 'react';
-// import logo from "../Images/k.png"
 import Saurav_Sanjay_Chavan from "../files/Saurav_Sanjay_Chavan.pdf"
 
 

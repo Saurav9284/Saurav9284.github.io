@@ -9,7 +9,6 @@ import Javascriptimg from "../Images/mini-icons/icons8-javascript.svg"
 import reactimg from "../Images/mini-icons/icons8-react-native.svg"
 import reduximg from "../Images/mini-icons/icons8-redux.svg"
 import chakraui from "../Images/mini-icons/icons8-chakra-ui.svg"
-// import express from "../Images/icons8-express-js.svg"
 import firebase from "../Images/firebase.svg"
 import razorpay from "../Images/razorpay.svg"
 import { Tooltip } from '@chakra-ui/react';

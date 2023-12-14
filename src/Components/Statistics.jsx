@@ -15,10 +15,9 @@ const Statistics = () => {
         <div className="calendar-container calendar react-activity-calendar">
           <ReactGithubCalendar
             username={"Saurav9284"}
-            style={{ width: "95%", margin: "auto" }}
+            style={{ width: "95%", margin: "auto"}}
             // className="calender-git"
             classForValue={(value) => `contribution-level-${value.count}`}
-
           />
 
         </div>
@@ -40,9 +39,6 @@ const Statistics = () => {
               alt="streakstat" />
           </div>
         </div>
-
-
-     
     </div>
   )
 }

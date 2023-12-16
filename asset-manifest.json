@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.75229fc7.css",
-    "main.js": "/static/js/main.9d5a30e9.js",
+    "main.js": "/static/js/main.b9de0fb8.js",
     "static/js/787.3503cf78.chunk.js": "/static/js/787.3503cf78.chunk.js",
-    "static/media/Saurav_Sanjay_Chavan.pdf": "/static/media/Saurav_Sanjay_Chavan.829cfd9d18737ff6eded.pdf",
+    "static/media/Saurav-Chavan-Resume.pdf": "/static/media/Saurav-Chavan-Resume.829cfd9d18737ff6eded.pdf",
     "static/media/devloperLogo.svg": "/static/media/devloperLogo.4ccaed63462142b961fad2ff6c869879.svg",
     "static/media/GemGarden.png": "/static/media/GemGarden.1fa6388b99e7ee3ea394.png",
     "static/media/Glossier.png": "/static/media/Glossier.95ea69934cb6fb026af1.png",
@@ -25,11 +25,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.75229fc7.css.map": "/static/css/main.75229fc7.css.map",
-    "main.9d5a30e9.js.map": "/static/js/main.9d5a30e9.js.map",
+    "main.b9de0fb8.js.map": "/static/js/main.b9de0fb8.js.map",
     "787.3503cf78.chunk.js.map": "/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75229fc7.css",
-    "static/js/main.9d5a30e9.js"
+    "static/js/main.b9de0fb8.js"
   ]
 }

@@ -35,7 +35,7 @@ const Nav = () => {
   }
 
   const handleDownload = () => {
-    window.open("https://drive.google.com/file/d/1BuUij8f6IcFfJPZwNK6oMOh4BJTp4O03/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/1Eg64RrNFnqfkXw1nnkpt9UI6mhdg9dnG/view?usp=sharing");
     const link = document.createElement('a');
 
     link.href = Saurav_Sanjay_Chavan;

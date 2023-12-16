@@ -1,7 +1,7 @@
 import React from 'react';
 import "../Styles/about.css";
 import myphoto from "../Images/myphoto.jpg"
-import Saurav_Sanjay_Chavan from "../files/Saurav_Sanjay_Chavan.pdf"
+import Saurav_Sanjay_Chavan from "../files/Saurav-Chavan-Resume.pdf"
 
 
 const About = ({ref,func}) => {

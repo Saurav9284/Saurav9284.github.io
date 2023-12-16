@@ -1,7 +1,7 @@
 import React from 'react';
 import "../Styles/about.css";
 import myphoto from "../Images/myphoto.jpg"
-import Saurav_Sanjay_Chavan from "../files/Saurav-Chavan-Resume.pdf"
+import Saurav_Chavan_Resume from "../files/Saurav_Chavan_Resume.pdf"
 
 
 const About = ({ref,func}) => {
@@ -11,8 +11,8 @@ const About = ({ref,func}) => {
     const handleDownload = () => {
         window.open("https://drive.google.com/file/d/1Eg64RrNFnqfkXw1nnkpt9UI6mhdg9dnG/view?usp=sharing");
         const link = document.createElement('a');
-        link.href = Saurav_Sanjay_Chavan;
-        link.setAttribute('download', 'Saurav_Sanjay_Chavan.pdf');
+        link.href = Saurav_Chavan_Resume;
+        link.setAttribute('download', 'Saurav_Chavan_Resume.pdf');
         link.setAttribute('id', 'resume-link-2');
         document.body.appendChild(link);
         link.click();

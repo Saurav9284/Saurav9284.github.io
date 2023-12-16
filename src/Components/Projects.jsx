@@ -29,14 +29,14 @@ const Gloosierlink = ()=>{
    window.open("https://delightful-phoenix-888d86.netlify.app/");
 }
 const Gloosiergithublink = ()=>{
-   window.open("https://github.com/Saurav9284/Unite-5-Project-Female-Beauty-Product-");
+   window.open("https://github.com/Saurav9284/Glossier_Project");
 }
 
 const GemGardenlink = ()=>{
    window.open("https://saurav01gemgarden.netlify.app");
 }
 const GemGardengithublink = ()=>{
-   window.open("https://github.com/Saurav9284/Unite-6-Project-Gem-Garden");
+   window.open("https://github.com/Saurav9284/Gem-Garden_Project");
 }
 
    return (

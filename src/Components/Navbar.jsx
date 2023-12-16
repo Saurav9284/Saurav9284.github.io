@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import styles from "../Styles/navbar.module.css";
 import { Menu, MenuButton, MenuList, MenuItem, IconButton, Link } from '@chakra-ui/react';
 import { SlMenu } from "react-icons/sl";
-import resume from "../files/Saurav-Chavan-Resume.pdf"
+import resume from "../files/Saurav_Chavan_Resume.pdf"
 
 const Navbar = () => {
 

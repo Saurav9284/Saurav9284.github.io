@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d55a5829.css",
+    "main.css": "/static/css/main.432ed9ea.css",
     "main.js": "/static/js/main.3bb38b8d.js",
     "static/js/787.3503cf78.chunk.js": "/static/js/787.3503cf78.chunk.js",
     "static/media/Saurav_Chavan_Resume.pdf": "/static/media/Saurav_Chavan_Resume.829cfd9d18737ff6eded.pdf",
@@ -25,12 +25,12 @@
     "static/media/icons8-css.svg": "/static/media/icons8-css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.d55a5829.css.map": "/static/css/main.d55a5829.css.map",
+    "main.432ed9ea.css.map": "/static/css/main.432ed9ea.css.map",
     "main.3bb38b8d.js.map": "/static/js/main.3bb38b8d.js.map",
     "787.3503cf78.chunk.js.map": "/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d55a5829.css",
+    "static/css/main.432ed9ea.css",
     "static/js/main.3bb38b8d.js"
   ]
 }

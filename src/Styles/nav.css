@@ -49,6 +49,7 @@
   font-weight: bolder;
   font-family: cursive;
   cursor: pointer;
+  /* margin-top: 5px; */
 }
 .activenavbar {
   margin: auto;
@@ -69,6 +70,7 @@
   font-weight: bolder;
   font-family: cursive;
   cursor: pointer;
+  margin-top: 5px;
 }
 .navbar.sticky {
   padding: 15px 0;

@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.432ed9ea.css",
-    "main.js": "/static/js/main.3bb38b8d.js",
+    "main.css": "/static/css/main.e3694aba.css",
+    "main.js": "/static/js/main.77946bbb.js",
     "static/js/787.3503cf78.chunk.js": "/static/js/787.3503cf78.chunk.js",
-    "static/media/Saurav_Chavan_Resume.pdf": "/static/media/Saurav_Chavan_Resume.829cfd9d18737ff6eded.pdf",
     "static/media/devloperLogo.svg": "/static/media/devloperLogo.4ccaed63462142b961fad2ff6c869879.svg",
     "static/media/GemGarden.png": "/static/media/GemGarden.1fa6388b99e7ee3ea394.png",
     "static/media/Glossier.png": "/static/media/Glossier.95ea69934cb6fb026af1.png",
+    "static/media/Saurav_Chavan_Resume.pdf": "/static/media/Saurav_Chavan_Resume.bd6895952c23b40b8981.pdf",
     "static/media/Myntra.png": "/static/media/Myntra.4caee2f2aba93172bbde.png",
     "static/media/myphoto.jpg": "/static/media/myphoto.e7636355a045b018b73d.jpg",
     "static/media/Spotify.png": "/static/media/Spotify.f9b4eefe35e44c5138d3.png",
@@ -25,12 +25,12 @@
     "static/media/icons8-css.svg": "/static/media/icons8-css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.432ed9ea.css.map": "/static/css/main.432ed9ea.css.map",
-    "main.3bb38b8d.js.map": "/static/js/main.3bb38b8d.js.map",
+    "main.e3694aba.css.map": "/static/css/main.e3694aba.css.map",
+    "main.77946bbb.js.map": "/static/js/main.77946bbb.js.map",
     "787.3503cf78.chunk.js.map": "/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.432ed9ea.css",
-    "static/js/main.3bb38b8d.js"
+    "static/css/main.e3694aba.css",
+    "static/js/main.77946bbb.js"
   ]
 }

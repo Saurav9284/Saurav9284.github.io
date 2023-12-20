@@ -13,12 +13,13 @@ const Statistics = () => {
       </div>
       <div className="github-calender-div">
         <div className="calendar-container calendar react-activity-calendar">
-          <ReactGithubCalendar
+          {/* <ReactGithubCalendar
             username={"Saurav9284"}
             style={{ width: "95%", margin: "auto"}}
             // className="calender-git"
             classForValue={(value) => `contribution-level-${value.count}`}
-          />
+          /> */}
+          <img style={{width: "95%" , margin: "auto"}} src="https://ghchart.rshah.org/Saurav9284" alt=" Github chart" />
 
         </div>
         </div>

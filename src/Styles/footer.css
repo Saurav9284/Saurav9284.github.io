@@ -71,7 +71,7 @@
     content: 'U';
   }
   .footer-box:nth-child(18)::before {
-    content: '💚';
+    content: '';
   }
   
 

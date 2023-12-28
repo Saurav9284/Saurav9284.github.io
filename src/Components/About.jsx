@@ -9,7 +9,7 @@ const About = ({ref,func}) => {
 
 
     const handleDownload = () => {
-        window.open("https://drive.google.com/file/d/1FRGy2zk4K5mzUB7piN2YWeYWXMktuQpD/view?usp=sharing");
+        window.open("https://drive.google.com/file/d/1_uhnLMWhPv5osdDuFZ5DNGwooc-S5RJV/view?usp=sharing");
         const link = document.createElement('a');
         link.href = Saurav_Chavan_Resume;
         link.setAttribute('download', 'Saurav_Chavan_Resume.pdf');

@@ -31,8 +31,8 @@ const Statistics = () => {
           </div>
           <div>
             <img className="github-top-langs" id="github-top-langs"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav9284&lans-count=3&show_icons=true&theme=vue-dark"
-              alt="top_languages" />
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav9284&layout=compact&theme=vue-dark"
+              alt="top laguges"  />
           </div>
           <div>
             <img className="github-streak-stats" id="github-streak-stats"

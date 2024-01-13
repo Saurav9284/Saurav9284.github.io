@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3694aba.css",
-    "main.js": "/static/js/main.ffa012e9.js",
+    "main.js": "/static/js/main.3b8b01f7.js",
     "static/js/787.3503cf78.chunk.js": "/static/js/787.3503cf78.chunk.js",
     "static/media/devloperLogo.svg": "/static/media/devloperLogo.4ccaed63462142b961fad2ff6c869879.svg",
     "static/media/GemGarden.png": "/static/media/GemGarden.1fa6388b99e7ee3ea394.png",
@@ -26,11 +26,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.e3694aba.css.map": "/static/css/main.e3694aba.css.map",
-    "main.ffa012e9.js.map": "/static/js/main.ffa012e9.js.map",
+    "main.3b8b01f7.js.map": "/static/js/main.3b8b01f7.js.map",
     "787.3503cf78.chunk.js.map": "/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3694aba.css",
-    "static/js/main.ffa012e9.js"
+    "static/js/main.3b8b01f7.js"
   ]
 }

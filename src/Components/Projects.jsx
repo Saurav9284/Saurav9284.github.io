@@ -2,7 +2,6 @@ import React from 'react';
 import "../Styles/project.css";
 import htmlimg from "../Images/mini-icons/icons8-html.svg"
 import Myntra from "../Images/Myntra.png"
-import Spotify from "../Images/Spotify.png"
 import Glossier from "../Images/Glossier.png"
 import GemGarden from "../Images/GemGarden.png"
 import Notepad from "../Images/Notepad.png"
@@ -13,9 +12,10 @@ import reduximg from "../Images/mini-icons/icons8-redux.svg"
 import chakraui from "../Images/mini-icons/icons8-chakra-ui.svg"
 import firebase from "../Images/firebase.svg"
 import razorpay from "../Images/razorpay.svg"
-import MongoDB from "../Images/MongoDB.svg"
-import Nodejs from "../Images/Nodejs.svg"
-import express from "../Images/express.svg"
+import Mongo from "../Images/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png";
+import Nodejs from "../Images/icons8-node-js.svg";
+import Expressjs from "../Images/icons8-express-js.svg";
+
 import { Tooltip } from '@chakra-ui/react';
 import { AiFillGithub } from "react-icons/ai";
 import { VscLiveShare } from "react-icons/vsc";
@@ -221,11 +221,11 @@ const Notepadgithublink = () => {
                            <img className='iconimg' src={Javascriptimg} alt="javascript" />
                         </div>
                      </Tooltip>
-                     {/* <Tooltip label="MongoDB" hasArrow bg={"#0e4166"} paddingLeft={"5px"} paddingRight={"5px"} fontSize={"0.8rem"} color={"white"} aria-label='A tooltip'>
+                     <Tooltip label="MongoDB" hasArrow bg={"#0e4166"} paddingLeft={"5px"} paddingRight={"5px"} fontSize={"0.8rem"} color={"white"} aria-label='A tooltip'>
                         <div className='icon-background'>
-                           <img className='iconimg' src={MongoDB} alt="MongoDB" />
+                           <img className='iconimg' src={Mongo} alt="MongoDB" />
                         </div>
-                     </Tooltip> */}
+                     </Tooltip>
                      <Tooltip label="Node.js" hasArrow bg={"#0e4166"} paddingLeft={"5px"} paddingRight={"5px"} fontSize={"0.8rem"} color={"white"} aria-label='A tooltip'>
                         <div className='icon-background'>
                            <img className='iconimg' src={Nodejs} alt="Node.js" />
@@ -233,7 +233,7 @@ const Notepadgithublink = () => {
                      </Tooltip>
                      <Tooltip label="Express.js" hasArrow bg={"#0e4166"} paddingLeft={"5px"} paddingRight={"5px"} fontSize={"0.8rem"} color={"white"} aria-label='A tooltip'>
                         <div className='icon-background'>
-                           <img className='iconimg' src={express} alt="Express.js" />
+                           <img className='iconimg' src={Expressjs} alt="Express.js" />
                         </div>
                      </Tooltip>
                      
